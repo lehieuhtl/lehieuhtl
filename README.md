@@ -1,6 +1,6 @@
 <h1>Hello, I'm Hieu! <br/><a href="https://www.linkedin.com/in/lehieuhtl/">Psychology Major</a>, <br/><a href="https://github.com/lehieuhtl">Cyber Security Programmer</a>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Cyber Security Projects:</h2>
 
 - <b>PowerShell</b>
   - [Azure SIEM: Failed RDP (Remote Desktop Protocol) Logins Source IP to full GeoData Map Conversion](https://github.com/lehieuhtl/SIEM-Sentinel)
