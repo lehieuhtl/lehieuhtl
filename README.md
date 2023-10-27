@@ -2,10 +2,10 @@
 
 <h2><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
+- <b>PowerShell</b><picture><img src = "https://www.winwire.com/wp-content/uploads/2022/03/New_Blogs4_Powershell.jpg" width = 50px></picture>
   - [Azure SIEM: Failed RDP (Remote Desktop Protocol) Logins Source IP to full GeoData Map Conversion](https://github.com/lehieuhtl/SIEM-Sentinel)
-
-
+- <b>PenTesting</b>
+  - [Reverse Shell using netCat](https://github.com/lehieuhtl/)
 
 <h2> 🤳 Connect with me:</h2>
 
