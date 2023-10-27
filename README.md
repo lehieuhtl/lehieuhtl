@@ -5,7 +5,7 @@
 - <b>PowerShell</b><picture><img src = "https://www.winwire.com/wp-content/uploads/2022/03/New_Blogs4_Powershell.jpg" width = 50px></picture>
   - [Azure SIEM: Failed RDP (Remote Desktop Protocol) Logins Source IP to full GeoData Map Conversion](https://github.com/lehieuhtl/SIEM-Sentinel)
 - <b>PenTesting</b>
-  - [Reverse Shell using netCat](https://github.com/lehieuhtl/)
+  - [Reverse Shell using netCat](https://github.com/lehieuhtl/rsnetCat)
 
 <h2> 🤳 Connect with me:</h2>
 
