@@ -7,7 +7,7 @@
 - <b>PenTesting</b>  <picture><img src = "https://img.wattpad.com/cover/6293391-176-k98524.jpg" width = 50px></picture>
   - [Reverse Shell using netCat](https://github.com/lehieuhtl/rsnetCat)
   - [C2 Framework](https://github.com/lehieuhtl/C2Framework)
-- <b>R / R Studio</b>
+- <b>R / R Studio - Practical Uses</b>
   - [Anova]
   - [Stroop Bar Plot]
 <h2> 🤳 Connect with me:</h2>
