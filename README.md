@@ -6,7 +6,7 @@
   - [Azure SIEM: Failed RDP (Remote Desktop Protocol) Logins Source IP to full GeoData Map Conversion](https://github.com/lehieuhtl/SIEM-Sentinel)
 - <b>PenTesting</b>  <picture><img src = "https://img.wattpad.com/cover/6293391-176-k98524.jpg" width = 50px></picture>
   - [Reverse Shell using netCat](https://github.com/lehieuhtl/rsnetCat)
-  - [C2 Framework](https://github.com/lehieuhtl/C2Framework)
+  - [C2 Framework]
 - <b>R / R Studio - Practical Uses</b>
   - [Anova]
   - [Stroop Bar Plot]
